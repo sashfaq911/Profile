@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 
 - 👋 Hi, I’m @sashfaq911
 - 👀 I’m interested in all things AI
